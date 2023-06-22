@@ -55,11 +55,11 @@
     </li>
     <li id="art02">
     <img src="img/gahaku_img-02.png" alt="つくね">
-    <p>■ヒント：絶世の美女</p>
+    <p>■ヒント：世界一有名な美女</p>
     </li>
     <li id="art03">
     <img src="img/gahaku_img-03.png" alt="ウルトラかわいい鳥">
-    <p>■ヒント：同じ名前の町がある</p>
+    <p>■ヒント：日本に同じ名前の町がある</p>
     </li>
     <li id="art04">
     <img src="img/gahaku_img-04.png" alt="ネギ塩レバー">

@@ -9,7 +9,7 @@ align-items: center;
 img {
     text-align: center;
     align-items: center;
-    width: 85%; /* bodyの幅に対する割合 */
+    width: 80%; /* bodyの幅に対する割合 */
     border-top: 40px solid #B37D4D;    /* 上のborderを指定 */
     border-right: 40px solid #B37D4D;  /* 右のborderを指定 */
     border-bottom: 40px solid #D2AE7E; /* 下のborderを指定 */
@@ -77,14 +77,14 @@ margin: auto;
 }
 
 .input_base{
-    margin: auto;
+    margin: 5%;
     padding: auto;
     font-family: 'DotGothic16', sans-serif;
     font-size: 24px;
     text-align: center;
     margin-top: 50px;
     padding-top: 30px;
-    width: 80%;
+    width: 90%;
     display: inline-block;
     background-color: aquamarine;
     border-radius: 20px;
