@@ -29,8 +29,7 @@
 <div class="input_base">
 
     <form action="write.php" method="post">
-        作品No.
-        
+        プルダウンから作品を選ぼう！
         <select name="artno" class="input2" id="selectPhoto">
         <option value="art00" selected="selected">画伯ゲームスタート</option>
         <option value="art01">作品①</option>
@@ -52,7 +51,7 @@
     </li>
     <li id="art01">
     <img src="img/gahaku_img-01.png" alt="とてもかわいい鳥">
-    <p>■ヒント：この世の宝</p>
+    <p>■ヒント：レジェンド</p>
     </li>
     <li id="art02">
     <img src="img/gahaku_img-02.png" alt="つくね">
@@ -68,7 +67,7 @@
     </li>
     <li id="art05">
     <img src="img/gahaku_img-05.png" alt="とてもかわいい鳥">
-    <p>いい声のナレがつく</p>
+    <p>■ヒント：いい声のナレがつく</p>
     </li>
     <li id="art06">
     <img src="img/gahaku_img-06.png" alt="とてもかわいい鳥">
