@@ -28,13 +28,13 @@
 - [tips]
 - [参考記事]
 
-
-
-
-
 # 参考資料
 
 - 額縁をレイヤー機能を使って重ねる
+<<<<<<< HEAD
 https://web-camp.io/magazine/archives/90430
 
 - 
+=======
+https://web-camp.io/magazine/archives/90430
+>>>>>>> 3565214 (READMEをGIThubでいじってエラーってしまった。。。)
