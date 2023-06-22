@@ -1,0 +1,143 @@
+body{
+
+    margin: auto;
+    padding: auto;
+align-items: center;
+
+}
+
+img {
+    width: 85%; /* bodyの幅に対する割合 */
+}
+
+
+.title{
+    margin: auto;
+    padding: auto;
+    font-family: 'Potta One', cursive;
+    text-align: center;
+    font-size: 80px;
+    margin-top: 10px;
+    width: 90%;
+
+
+}
+
+.subtitle{
+
+    font-family: 'Darumadrop One', cursive;
+    text-align: center;
+    font-size: 36px;
+    margin: 20px;
+
+        /* 横長で虹色を作る */
+        background: linear-gradient(to right, Magenta, yellow, Cyan, Magenta) 0% center/200%;
+        animation: gaming 2s linear infinite;
+
+    /* font-family: 'Dela Gothic One', cursive;
+    font-family: 'DotGothic16', sans-serif;
+    font-family: 'Kaisei Decol', serif;
+    font-family: 'RocknRoll One', sans-serif;
+    font-family: 'VT323', monospace;
+    font-family: 'Zen Kaku Gothic New', sans-serif; */
+
+
+    }
+
+    @keyframes gaming {
+        /* backgroundを移動させる */
+        100% { background-position-x: 200%; }
+    }
+
+    ul{
+        padding-left:0;
+      }
+      
+      li{
+        list-style:none;
+      }
+
+.intro{
+margin: auto;
+    padding: auto;
+    font-family: 'DotGothic16', sans-serif;
+    text-align: left;
+    font-size: 24px;
+    width: 88vw;
+    align-items: center;
+
+}
+
+.input_base{
+    margin: auto;
+    padding: auto;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+    padding-right: 20px;
+    padding-top: 30px;
+    width: 80%;
+    display: inline-block;
+    background-color: aquamarine;
+    border-radius: 20px;
+    vertical-align: bottom;
+    display: flex;
+    justify-content: center;
+}
+
+.input1{
+    display: inline-block;
+    background-color: #fff;
+    margin: auto;
+    padding: 1em 0.5em;
+    line-height: 1;
+    border-radius: 10px;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 14px;
+    vertical-align: middle;
+    width: auto;
+    align-items: center;
+}
+
+.input2{
+
+    margin: auto;
+    padding: auto;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 24px;
+    text-align: center;
+    margin-top: 50px;
+    width: 80%;
+    display: inline-block;
+    background-color: aquamarine;
+    border-radius: 20px;
+    vertical-align: bottom;
+    display: flex;
+    justify-content: center;
+}
+
+ul li:nth-of-type(n+2){
+display: none;
+}
+
+.submit_button{
+    text-align: center;
+    font-family: 'DotGothic16', sans-serif;
+    font-size: 24px;
+    margin: 20px;
+    padding: 1em 0.5em;
+    line-height: 0.3;
+    border-radius: 5px;
+    width: auto;
+    align-items: center;
+    text-align: center;
+}
+
+#footer{
+
+    text-align: center;
+    line-height: 2;
+    padding-bottom: 40px;
+    }
+    
